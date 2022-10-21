@@ -1,9 +1,9 @@
 # Projeto com README
-Um projeto de teste com um aruivo README 🚀
+Um projeto de teste com um arquivo README 🚀
 
 [<img src="./Readme.gif" alt="gif aula readme">]
 
-## Tecnologias itilizadas
+## Tecnologias utilizadas
 - HTML
 - CSS
 - JS
